@@ -8,4 +8,4 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/SclayGT"><img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,postgres,mysql,postman,nestjs,nextjs"> </a> </p>
+<p align="left"> <a href="https://github.com/SclayGT"><img src="https://skillicons.dev/icons?i=html,css,js,ts,go,php,postgres,mysql,postman,nestjs,nextjs,react"> </a> </p>
